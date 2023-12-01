@@ -1,5 +1,9 @@
-package com.configprop;
+browser=chrome
+url=https://katalon-demo-cura.herokuapp.com/profile.php#login
 
-public class credprop {
+username =John Doe
+password =ThisIsNotAPassword
 
-}
+invalidusername =John Doe
+invalidpassword =ThisIsNotAPasswor
+
