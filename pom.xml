@@ -3,7 +3,7 @@
   <groupId>Healthcare</groupId>
   <artifactId>Healthcare</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-   <dependencies>
+  <dependencies>
 	  <!-- https://mvnrepository.com/artifact/org.testng/testng -->
 <dependency>
     <groupId>org.testng</groupId>
@@ -53,5 +53,4 @@
             <version>1.0.7</version>
         </dependency>
   </dependencies>
-
 </project>

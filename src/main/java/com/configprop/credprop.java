@@ -1,9 +1,9 @@
 browser=chrome
 url=https://katalon-demo-cura.herokuapp.com/profile.php#login
 
-username =John Doe
+username =yara
 password =ThisIsNotAPassword
 
-invalidusername =John Doe
+invalidusername =John yara
 invalidpassword =ThisIsNotAPasswor
 
